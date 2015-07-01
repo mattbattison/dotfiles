@@ -1,0 +1,10 @@
+####################
+# Global gitignore #
+####################
+
+# OSX Files
+.DS_Store
+
+# Editor Files
+*~
+*.sublime-workspace
