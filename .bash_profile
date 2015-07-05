@@ -1,3 +1,6 @@
+# Source bashrc
+source ~/.bashrc
+
 # Prompt
 export PS1="\u@\h:\w $ "
 
