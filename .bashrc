@@ -1,3 +1,7 @@
-NPM_PACKAGES="$HOME/.npm-packages"
-PATH="$NPM_PACKAGES/bin:$PATH"
-NODE_PATH="$NPM_PACKAGES/lib/node_modules:$NODE_PATH"
+# Prompt
+export PS1="\u@\h:\w $ "
+
+# Useful Aliases
+alias ..='cd ../'
+alias ll='ls -FGAlh'
+alias fnd='open -a Finder ./'
