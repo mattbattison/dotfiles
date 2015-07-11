@@ -86,3 +86,6 @@ fi
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# preferred ls aliases
+alias l="ls -A"
