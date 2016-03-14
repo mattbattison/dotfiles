@@ -89,6 +89,3 @@ fi
 
 # preferred ls aliases
 alias l="ls -A"
-
-# visual studio code
-code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
