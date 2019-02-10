@@ -1,0 +1,12 @@
+[user]
+	name = Matt Battison
+	email = matt.battison@gmail.com
+[core]
+	excludesfile = ~/.config/git/ignore
+[alias]
+	co = checkout
+	st = status
+	ci = commit
+	br = branch
+	ca = commit -a
+	lg = log --graph --oneline
