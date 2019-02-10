@@ -2,7 +2,7 @@
 	name = Matt Battison
 	email = matt.battison@gmail.com
 [core]
-	excludesfile = ~/.config/git/ignore
+	excludesfile = ~/.gitignore
 [alias]
 	co = checkout
 	st = status
