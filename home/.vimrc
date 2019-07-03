@@ -1,10 +1,12 @@
 " Plugins
 call plug#begin('~/.vim/plugged')
 Plug 'arcticicestudio/nord-vim'
+Plug 'itchyny/lightline.vim'
 call plug#end()
 
 " Colour scheme
 colorscheme nord
+let g:lightline={'colorscheme':'nord'}
 
 " Prevent bad habits
 noremap <Up> <NOP>
@@ -47,3 +49,6 @@ nnoremap <leader><leader> :nohlsearch<CR>
 " Don't beep or flash on bell
 set visualbell
 set t_vb=
+
+" Always display status line
+set laststatus=2
