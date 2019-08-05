@@ -2,6 +2,7 @@
 	name = Matt Battison
 	email = matt.battison@gmail.com
 [core]
+	editor = vim
 	excludesfile = ~/.config/git/global_ignore
 [alias]
 	co = checkout
