@@ -40,6 +40,9 @@ let mapleader=","
 " Highlight matching brackets etc.
 set showmatch
 
+" Use smart case-sensitivity when searching
+set smartcase
+
 " Highlight search results ...
 set incsearch
 set hlsearch
