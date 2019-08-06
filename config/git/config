@@ -10,4 +10,5 @@
 	ci = commit
 	br = branch
 	ca = commit -a
+	cam = commit -am
 	lg = log --graph --oneline
