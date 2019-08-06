@@ -41,6 +41,7 @@ let mapleader=","
 set showmatch
 
 " Use smart case-sensitivity when searching
+set ignorecase
 set smartcase
 
 " Highlight search results ...
