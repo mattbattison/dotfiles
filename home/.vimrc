@@ -56,3 +56,6 @@ set t_vb=
 
 " Always display status line
 set laststatus=2
+
+" Don't wrap
+set nowrap
