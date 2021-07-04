@@ -67,3 +67,7 @@ set laststatus=2
 
 " Don't wrap
 set nowrap
+
+" Allow backspacing over everything
+set backspace=indent,eol,start
+
